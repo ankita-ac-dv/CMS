@@ -10,6 +10,18 @@
     <?php
         include 'Header.php';
     ?>
-    
+    <div class="card-container">
+    <div class="card">
+        <h3>Reporter Login</h3>
+        <p>This is a description for the first card. Add some details here.</p>
+        <a href="Reporter_Login.php"><button>Login</button></a>
+    </div>
+    <div class="card">
+        <h3>Manager Login</h3>
+        <p>This is a description for the second card. Add some details here.</p>
+        <a href="Manager_Login.php"><button>Login</button></a>
+    </div>
+</div>
+
 </body>
 </html>
