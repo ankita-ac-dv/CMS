@@ -18,7 +18,7 @@
             <input type="text" placeholder="Search...">
             <button>Search</button>
         </div>
-    </header>
+</header>
    
 
 </body>
