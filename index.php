@@ -21,8 +21,8 @@
         <p>This is a description for the second card. Add some details here.</p>
         <a href="Manager_Login.php"><button>Login</button></a>
     </div>
-    <div class="card">
-        <h3>Manager Logi</h3>
+    <div class="car">
+        <h3>Manager Login</h3>
         <p>This is a description for the second card. Add some details here.</p>
         <a href="Manager_Login.php"><button>Login</button></a>
 </div>
